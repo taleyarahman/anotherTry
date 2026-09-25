@@ -1,7 +1,4 @@
 # anotherTry
-hi there 
-<<<<<<< HEAD
-hello mam
-=======
-hello sirr
->>>>>>> main
+# hi there 
+# hello mam
+# hello sirr
